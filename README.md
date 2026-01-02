@@ -25,14 +25,7 @@ The project covers the following methods:
 - Monte Carlo simulation for time-series properties
 
 ## Repository Structure
-- `01_dataexploration.R` – data exploration and summary statistics  
-- `02_ols_diagnostic.R` – regression estimation and diagnostics  
-- `03_nonparametricmethod.R` – nonparametric analysis  
-- `04_bootstrap method.R` – bootstrap inference  
-- `05_adl model and forecasting.R` – dynamic modeling and forecasting  
-- `06_structural break outlier.R` – structural break and influence analysis  
-- `07_markov_switching.R` – regime-switching model  
-- `08_montecarlo_simulation.R` – Monte Carlo simulation  
+- `code/` – R scripts for all analyses
 - `Data_KON.xlsx` – dataset  
 - `economic sentiment reports.docx` – technical report  
 
